@@ -1,8 +1,28 @@
 # Настройки GitHub Pages
 title: AI HERO Lessons
 description: Коллекция новостей и уроков по искусственному интеллекту
+lang: ru-RU
+url: "https://content-hero.github.io"
+baseurl: "/ai"
 
 # Тема Jekyll
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+# Автор сайта
+author:
+  name: AI HERO
+  url: https://content-hero.github.io/ai/
+
 # Настройки отображения
 show_downloads: false
+
+# Paginate (опционально)
+paginate: 10
+paginate_path: /page:num/
+
+# Плагины
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
