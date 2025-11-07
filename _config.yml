@@ -1,0 +1,9 @@
+# Настройки GitHub Pages
+title: AI HERO Lessons
+description: Коллекция новостей и уроков по искусственному интеллекту
+
+# Тема Jekyll
+theme: jekyll-theme-cayman
+
+# Настройки отображения
+show_downloads: false
