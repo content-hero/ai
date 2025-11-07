@@ -1,0 +1,18 @@
+# Настройки темы Basically Basic
+
+# Выбор цветовой схемы (skin)
+# Доступные варианты: default, night, plum, sea, soft, steel
+skin: default
+
+# Текстовые настройки интерфейса
+t:
+  menu: "Меню"
+  search: "Поиск"
+  home: "Главная"
+  newer: "Новее"
+  older: "Старее"
+  email: "Email"
+  read_more: "Читать далее"
+  posts: "Посты"
+  page: "Страница"
+  of: "из"
