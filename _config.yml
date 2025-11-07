@@ -3,7 +3,6 @@ title: AI HERO Lessons
 description: Коллекция новостей и уроков по искусственному интеллекту
 
 # Тема Jekyll
-theme: jekyll-theme-cayman
-
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 # Настройки отображения
 show_downloads: false
